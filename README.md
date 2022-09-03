@@ -1,2 +1,2 @@
 # monitor
-monitoring system
+monitoring system is good idea
